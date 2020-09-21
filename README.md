@@ -25,7 +25,7 @@ https://bbarello.github.io/password_generator/
 
 
 
-## Screenshot(s);
+## Screenshot(s):
 
 ![Pasword Generator](password-generator.png)
 
